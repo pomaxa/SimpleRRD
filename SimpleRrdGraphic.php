@@ -6,6 +6,8 @@
  * Time: 1:33 PM
  * To change this template use File | Settings | File Templates.
  */
+namespace SimpleRRD;
+
 class SimpleRrdGraphic
 {
 
